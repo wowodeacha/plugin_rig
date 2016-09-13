@@ -1,3 +1,7 @@
 #Created by YangJie
 #Hello !pengyou men ! 
-#test 2
+<<<<<<< HEAD
+#test new feature
+=======
+#test new feature
+>>>>>>> feature1
