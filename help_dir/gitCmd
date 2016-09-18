@@ -2,10 +2,23 @@
 
 
 
+#remote cmds 远程命令
+
+    #查看远程库
+    git remote -v
+
+    #关联一个远程库 \
+    git remote add origin git@--------.git
+
+    #推送命令
+    git push -u origin master
+
+    #从远程克隆
+    git clone git@-------.git
 
 
 
-#git branch cmds
+#git branch cmds  分支命令
 
     #查看分支
     git branch
